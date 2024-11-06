@@ -9,6 +9,7 @@ also, on sign up send OTP on user's mobile (in the demo task just enter 1234 and
 after activation of the user and validate OTP, now user can log in
 
 user permission
+
 admin user can do all actions like create, update, delete, and block/unblock the user
 only registered users can do only update and view their own profile
  on all events (create, update, delete, and all) need to display a success or error message
